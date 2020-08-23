@@ -1,4 +1,4 @@
-## Hi, I'm Keerththanan a.k.a Kitty 😸
+## Hi, I'm Keerththanan Pathmanathan a.k.a _Kitty_ 😸
  
 For all I know, Simple Problems needs Simple Solutions
 
