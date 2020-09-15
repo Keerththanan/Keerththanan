@@ -1,9 +1,6 @@
 ## Hi, I'm `Keerththanan Pathmanathan` a.k.a _`Kitty`_ 😸 
 For all I know, Simple Problems needs Simple Solutions
 
-#### Stats Time 📈
-![KeeRththanan P.'s Github Stats](https://github-readme-stats.vercel.app/api?username=Keerththanan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 #### Languages
 ![react](https://img.shields.io/badge/React-black?style=flat&logo=react) ![node](https://img.shields.io/badge/node.js-black?style=flat&logo=node.js) ![Java](https://img.shields.io/badge/java-black?style=flat&logo=java)
 
