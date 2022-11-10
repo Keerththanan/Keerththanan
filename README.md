@@ -5,7 +5,9 @@ For all I know, Simple Problems needs Simple Solutions
 ![react](https://img.shields.io/badge/React-black?style=flat&logo=react) ![node](https://img.shields.io/badge/node.js-black?style=flat&logo=node.js) ![Java](https://img.shields.io/badge/java-black?style=flat&logo=java)
 
 #### Stats Time 📈
-![KeeRththanan P.'s Github Stats](https://github-readme-stats.vercel.app/api?username=Keerththanan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![KeeRththanan P.'s Github Stats](https://github-readme-stats.vercel.app/api?username=Keerththanan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
+
+ ![Top Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerththanan&theme=radical)
 
 ## Let's Connect! 🌐
 *Talk to me about anything! I can chat your ear off....* 😅  
